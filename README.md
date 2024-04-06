@@ -1,2 +1,2 @@
-# push-sdk
-push notification sdk onesignal
+# karinesiaid
+ push notification
